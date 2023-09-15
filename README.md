@@ -2,8 +2,6 @@
 
 This is an eCommerce project built using React.js and Redux. It includes features like user authentication (login and logout), product listings, and more.
 
-![Project Screenshot](/path/to/screenshot.png)
-
 ## Table of Contents
 
 - [Demo](#demo)
